@@ -1,0 +1,88 @@
+{
+    "products": [
+      {
+        "id": 1,
+         "sku": 100001,
+         "title": "Mens Casual Jacket",
+         "availableSizes": ["X", "L", "XL", "XXL"],
+         "price": 86
+    },
+    {
+        "id": 2,
+         "sku": 100002,
+         "title": "Men's Winter Pure Cotton Jacket",
+         "availableSizes": ["X", "M", "XXL"],
+         "price": 42
+    },
+    {
+        "id": 3,
+         "sku": 100003,
+         "title": "Men jacket military",
+         "availableSizes": ["X", "M", "L"],
+         "price": 36
+    },
+    {
+        "id": 4,
+         "sku": 100004,
+         "title": "Men Jacket Coats Military",
+         "availableSizes": ["X", "M", "XL"],
+         "price": 56
+    },
+    {
+        "id": 5,
+         "sku": 100005,
+         "title": "Leather Mens Jacket",
+         "availableSizes": ["X", "XXL"],
+         "price": 67
+    },
+    {
+        "id": 6,
+         "sku": 100006,
+         "title": "Design Spring Men Jacket",
+         "availableSizes": ["XS", "L"],
+         "price": 80
+    },
+    {
+        "id": 7,
+         "sku": 100007,
+         "title": "Men Jacket Warm Winter",
+         "availableSizes": ["S", "L", "XXL"],
+         "price": 45
+    },
+    {
+        "id": 8,
+         "sku": 100008,
+         "title": "Men Jacket Warm Winter",
+         "availableSizes": ["XXS", "XL", "XXL"],
+         "price": 96
+    },
+    {
+        "id": 9,
+         "sku": 100009,
+         "title": "Fashion Autumn Mens Jacket",
+         "availableSizes": ["M", "XL", "XXL"],
+         "price": 80
+    },
+    {
+        "id": 10,
+         "sku": 100010,
+         "title": "Dual Color Long Sleeve Mens Jacket",
+         "availableSizes": ["S", "L", "XL"],
+         "price": 69
+    },
+    {
+        "id": 11,
+         "sku": 100011,
+         "title": "Men Designer Jacket",
+         "availableSizes": ["XXS", "L"],
+         "price": 73
+    },
+    {
+        "id": 12,
+         "sku": 100012,
+         "title": "Leather Men Jacket",
+         "availableSizes": ["XS", "L", "M", "XL"],
+         "price": 73
+    }
+      ]    
+}
